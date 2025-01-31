@@ -1,0 +1,19 @@
+{
+  "name": "nodejstest",
+  "version": "1.0.0",
+  "description": "new nodeJS web server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanADiaz/TestingOutNJS.git"
+  },
+  "author": "Ian Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IanADiaz/TestingOutNJS/issues"
+  },
+  "homepage": "https://github.com/IanADiaz/TestingOutNJS#readme"
+}
